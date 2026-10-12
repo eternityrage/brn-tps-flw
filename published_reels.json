@@ -142,5 +142,23 @@
       "status": "success",
       "url": "https://facebook.com/3283665998485459"
     }
+  },
+  {
+    "timestamp": "2026-10-12T21:52:50.367590+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_heartbeat_pulse_wave_open_hands_squid_20261012_215247.mp4",
+    "mode": "heartbeat_pulse_wave",
+    "hero": "open_hands",
+    "item": "squid",
+    "title": "Deep Focus Flow: Hit The Zen Alignment! \ud83d\udc8e",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "4561054154162169",
+      "comment_id": "4561054154162169_1122526140427198",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4561054154162169"
+    }
   }
 ]
