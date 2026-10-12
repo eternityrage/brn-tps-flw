@@ -124,5 +124,23 @@
       "status": "success",
       "url": "https://facebook.com/2214742833260541"
     }
+  },
+  {
+    "timestamp": "2026-10-12T11:20:41.793846+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_accordion_z_axis_woman_with_bunny_ears_man_superhero_20261012_112038.mp4",
+    "mode": "accordion_z_axis",
+    "hero": "woman_with_bunny_ears",
+    "item": "man_superhero",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "3283665998485459",
+      "comment_id": "3283665998485459_1108696428175200",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3283665998485459"
+    }
   }
 ]
