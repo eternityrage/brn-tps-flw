@@ -268,5 +268,23 @@
       "status": "success",
       "url": "https://facebook.com/1750881709533151"
     }
+  },
+  {
+    "timestamp": "2026-10-15T00:54:17.676460+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_pendulum_harmonic_arc_fast_down_button_unlocked_20261015_005412.mp4",
+    "mode": "pendulum_harmonic_arc",
+    "hero": "fast_down_button",
+    "item": "unlocked",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "2132752970701381",
+      "comment_id": "2132752970701381_4511430795784343",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2132752970701381"
+    }
   }
 ]
