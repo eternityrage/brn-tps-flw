@@ -412,5 +412,23 @@
       "status": "success",
       "url": "https://facebook.com/2326405857900736"
     }
+  },
+  {
+    "timestamp": "2026-10-16T20:06:38.465856+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_zoom_pulse_tractor_skis_20261016_200632.mp4",
+    "mode": "zoom_pulse",
+    "hero": "tractor",
+    "item": "skis",
+    "title": "Smooth Momentum Challenge! Freeze In Perfect Flow \u2728",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "2254093325158782",
+      "comment_id": "2254093325158782_4094930263973571",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2254093325158782"
+    }
   }
 ]
