@@ -484,5 +484,23 @@
       "status": "success",
       "url": "https://facebook.com/1427565586176410"
     }
+  },
+  {
+    "timestamp": "2026-10-17T16:40:13.845961+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_sine_wave_meander_bell_red_envelope_20261017_164009.mp4",
+    "mode": "sine_wave_meander",
+    "hero": "bell",
+    "item": "red_envelope",
+    "title": "Deep Focus Flow: Hit The Zen Alignment! \ud83d\udc8e",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1127637772986452",
+      "comment_id": "1127637772986452_2268624773713980",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1127637772986452"
+    }
   }
 ]
