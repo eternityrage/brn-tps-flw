@@ -448,5 +448,23 @@
       "status": "success",
       "url": "https://facebook.com/1142667354851611"
     }
+  },
+  {
+    "timestamp": "2026-10-17T08:03:14.793175+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_solar_eclipse_trumpet_sad_but_relieved_face_20261017_080311.mp4",
+    "mode": "solar_eclipse",
+    "hero": "trumpet",
+    "item": "sad_but_relieved_face",
+    "title": "Deep Focus Flow: Hit The Zen Alignment! \ud83d\udc8e",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "29317921341144797",
+      "comment_id": "29317921341144797_2100196020622029",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/29317921341144797"
+    }
   }
 ]
