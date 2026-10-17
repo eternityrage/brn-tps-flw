@@ -502,5 +502,23 @@
       "status": "success",
       "url": "https://facebook.com/1127637772986452"
     }
+  },
+  {
+    "timestamp": "2026-10-17T19:43:44.074764+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_rising_bubbles_wilted_flower_hedgehog_20261017_194340.mp4",
+    "mode": "rising_bubbles",
+    "hero": "wilted_flower",
+    "item": "hedgehog",
+    "title": "Hypnotic ASMR Tap: Pause At The Harmonic Beat \ud83e\uddd8",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "1552523800243070",
+      "comment_id": "1552523800243070_1403811914773313",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1552523800243070"
+    }
   }
 ]
