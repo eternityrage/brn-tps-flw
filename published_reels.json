@@ -574,5 +574,23 @@
       "status": "success",
       "url": "https://facebook.com/1848616003217966"
     }
+  },
+  {
+    "timestamp": "2026-10-18T16:56:57.221505+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_metronome_tick_keycap_6_hot_dog_20261018_165652.mp4",
+    "mode": "metronome_tick",
+    "hero": "keycap_6",
+    "item": "hot_dog",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "1513997237442307",
+      "comment_id": "1513997237442307_2079068309404957",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1513997237442307"
+    }
   }
 ]
