@@ -520,5 +520,23 @@
       "status": "success",
       "url": "https://facebook.com/1552523800243070"
     }
+  },
+  {
+    "timestamp": "2026-10-18T00:21:23.914395+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_waterfall_cascade_loudspeaker_woman_dancing_20261018_002120.mp4",
+    "mode": "waterfall_cascade",
+    "hero": "loudspeaker",
+    "item": "woman_dancing",
+    "title": "Deep Focus Flow: Hit The Zen Alignment! \ud83d\udc8e",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "2326830171448761",
+      "comment_id": "2326830171448761_4176018162701263",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2326830171448761"
+    }
   }
 ]
