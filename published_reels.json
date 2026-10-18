@@ -592,5 +592,23 @@
       "status": "success",
       "url": "https://facebook.com/1513997237442307"
     }
+  },
+  {
+    "timestamp": "2026-10-18T19:41:45.449669+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_pop_up_book_tiger_face_yo_yo_20261018_194140.mp4",
+    "mode": "pop_up_book",
+    "hero": "tiger_face",
+    "item": "yo_yo",
+    "title": "Hypnotic ASMR Tap: Pause At The Harmonic Beat \ud83e\uddd8",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1418125570504693",
+      "comment_id": "1418125570504693_3271953533003501",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1418125570504693"
+    }
   }
 ]
