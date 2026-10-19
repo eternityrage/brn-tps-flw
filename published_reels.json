@@ -646,5 +646,23 @@
       "status": "success",
       "url": "https://facebook.com/28806453102345452"
     }
+  },
+  {
+    "timestamp": "2026-10-19T19:29:53.120697+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_anamorphic_stretch_microphone_saluting_face_20261019_192948.mp4",
+    "mode": "anamorphic_stretch",
+    "hero": "microphone",
+    "item": "saluting_face",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "1775109927261418",
+      "comment_id": "1775109927261418_1840059130515076",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1775109927261418"
+    }
   }
 ]
