@@ -628,5 +628,23 @@
       "status": "success",
       "url": "https://facebook.com/2528658647560450"
     }
+  },
+  {
+    "timestamp": "2026-10-19T09:19:35.171157+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_whack_a_mole_pop_fallen_leaf_water_wave_20261019_091932.mp4",
+    "mode": "whack_a_mole_pop",
+    "hero": "fallen_leaf",
+    "item": "water_wave",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "28806453102345452",
+      "comment_id": "28806453102345452_1532587031963271",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/28806453102345452"
+    }
   }
 ]
