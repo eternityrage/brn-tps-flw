@@ -682,5 +682,23 @@
       "status": "success",
       "url": "https://facebook.com/1751086413691643"
     }
+  },
+  {
+    "timestamp": "2026-10-20T08:53:35.432827+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_matrix_2x2_anatomical_heart_bomb_20261020_085332.mp4",
+    "mode": "matrix_2x2",
+    "hero": "anatomical_heart",
+    "item": "bomb",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "2534195363730527",
+      "comment_id": "2534195363730527_2067909120502519",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2534195363730527"
+    }
   }
 ]
