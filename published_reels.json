@@ -736,5 +736,23 @@
       "status": "success",
       "url": "https://facebook.com/1165979382522532"
     }
+  },
+  {
+    "timestamp": "2026-10-21T08:53:47.663387+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_plinko_bounce_rainbow_flag_orange_circle_20261021_085342.mp4",
+    "mode": "plinko_bounce",
+    "hero": "rainbow_flag",
+    "item": "orange_circle",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "4592482967737868",
+      "comment_id": "4592482967737868_1942167433414705",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4592482967737868"
+    }
   }
 ]
