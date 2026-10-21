@@ -718,5 +718,23 @@
       "status": "success",
       "url": "https://facebook.com/1758620878530573"
     }
+  },
+  {
+    "timestamp": "2026-10-21T00:59:13.469590+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_orbit_carousel_hamburger_ticket_20261021_005908.mp4",
+    "mode": "orbit_carousel",
+    "hero": "hamburger",
+    "item": "ticket",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "1165979382522532",
+      "comment_id": "1165979382522532_1837319297357589",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1165979382522532"
+    }
   }
 ]
