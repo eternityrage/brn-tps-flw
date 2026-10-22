@@ -808,5 +808,23 @@
       "status": "success",
       "url": "https://facebook.com/1639997181011244"
     }
+  },
+  {
+    "timestamp": "2026-10-22T05:51:51.941289+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_tachometer_rev_limiter_droplet_grinning_face_with_smiling_eyes_20261022_055147.mp4",
+    "mode": "tachometer_rev_limiter",
+    "hero": "droplet",
+    "item": "grinning_face_with_smiling_eyes",
+    "title": "Hypnotic ASMR Tap: Pause At The Harmonic Beat \ud83e\uddd8",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "1104051698883740",
+      "comment_id": "1104051698883740_1154121637093598",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1104051698883740"
+    }
   }
 ]
