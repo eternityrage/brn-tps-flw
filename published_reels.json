@@ -1122,5 +1122,25 @@
       "status": "success",
       "url": "https://facebook.com/1129454166134401"
     }
+  },
+  {
+    "timestamp": "2026-10-27T19:39:24.477715+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_metronome_tick_person_superhero_pushpin_20261027_193920.mp4",
+    "family_id": 50,
+    "family_name": "Precision Chrono Metronomes",
+    "mode": "metronome_tick",
+    "hero": "person_superhero",
+    "item": "pushpin",
+    "title": "Deep Focus Flow: Hit The Zen Alignment! \ud83d\udc8e",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "2002237993888680",
+      "comment_id": "2002237993888680_1852057486009335",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2002237993888680"
+    }
   }
 ]
