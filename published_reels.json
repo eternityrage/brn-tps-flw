@@ -1222,5 +1222,25 @@
       "status": "success",
       "url": "https://facebook.com/1645101830359652"
     }
+  },
+  {
+    "timestamp": "2026-10-28T19:53:04.111274+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_whack_a_mole_pop_violin_pretzel_20261028_195301.mp4",
+    "family_id": 26,
+    "family_name": "Cyclonic Tornadoes",
+    "mode": "whack_a_mole_pop",
+    "hero": "violin",
+    "item": "pretzel",
+    "title": "Smooth Momentum Challenge! Freeze In Perfect Flow \u2728",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "1750887215990907",
+      "comment_id": "1750887215990907_1021595577640544",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1750887215990907"
+    }
   }
 ]
