@@ -1382,5 +1382,25 @@
       "status": "success",
       "url": "https://facebook.com/1991353354866000"
     }
+  },
+  {
+    "timestamp": "2026-10-30T11:03:33.643152+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_corner_squeeze_four_leaf_clover_cool_button_20261030_110328.mp4",
+    "family_id": 35,
+    "family_name": "Mechanical Box Vises",
+    "mode": "corner_squeeze",
+    "hero": "four_leaf_clover",
+    "item": "cool_button",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "975460385111587",
+      "comment_id": "975460385111587_1124194203799721",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/975460385111587"
+    }
   }
 ]
