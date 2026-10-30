@@ -1422,5 +1422,25 @@
       "status": "success",
       "url": "https://facebook.com/1452373600346199"
     }
+  },
+  {
+    "timestamp": "2026-10-30T19:43:05.806492+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_orbit_carousel_tulip_rat_20261030_194300.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_carousel",
+    "hero": "tulip",
+    "item": "rat",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1144967794853613",
+      "comment_id": "1144967794853613_1148053554411077",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1144967794853613"
+    }
   }
 ]
