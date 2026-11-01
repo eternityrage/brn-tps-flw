@@ -1642,5 +1642,25 @@
       "status": "success",
       "url": "https://facebook.com/2180852149452408"
     }
+  },
+  {
+    "timestamp": "2026-11-01T22:26:38.017962+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_sine_wave_meander_mushroom_television_20261101_222635.mp4",
+    "family_id": 5,
+    "family_name": "Harmonic Sine Waves",
+    "mode": "sine_wave_meander",
+    "hero": "mushroom",
+    "item": "television",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1833384337845922",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1833384337845922"
+    }
   }
 ]
