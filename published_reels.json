@@ -1662,5 +1662,25 @@
       "status": "success",
       "url": "https://facebook.com/1833384337845922"
     }
+  },
+  {
+    "timestamp": "2026-11-02T02:47:05.325485+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_orbit_elliptical_no_littering_blue_book_20261102_024700.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_elliptical",
+    "hero": "no_littering",
+    "item": "blue_book",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "1809273780279041",
+      "comment_id": "1809273780279041_1433110268996108",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1809273780279041"
+    }
   }
 ]
