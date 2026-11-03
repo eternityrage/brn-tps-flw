@@ -1762,5 +1762,25 @@
       "status": "success",
       "url": "https://facebook.com/2238985857496736"
     }
+  },
+  {
+    "timestamp": "2026-11-03T04:05:05.891096+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_pendulum_clockwork_crystal_ball_derelict_house_20261103_040502.mp4",
+    "family_id": 1,
+    "family_name": "Harmonic Pendulums",
+    "mode": "pendulum_clockwork",
+    "hero": "crystal_ball",
+    "item": "derelict_house",
+    "title": "Smooth Momentum Challenge! Freeze In Perfect Flow \u2728",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1826907488622826",
+      "comment_id": "1826907488622826_1662298932070673",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1826907488622826"
+    }
   }
 ]
