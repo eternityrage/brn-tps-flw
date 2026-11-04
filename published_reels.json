@@ -1862,5 +1862,25 @@
       "status": "success",
       "url": "https://facebook.com/1443158704618611"
     }
+  },
+  {
+    "timestamp": "2026-11-04T03:23:01.120132+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_orbit_counter_rotating_lollipop_kitchen_knife_20261104_032256.mp4",
+    "family_id": 21,
+    "family_name": "Counter-Rotating Gyros",
+    "mode": "orbit_counter_rotating",
+    "hero": "lollipop",
+    "item": "kitchen_knife",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "1636164681329322",
+      "comment_id": "1636164681329322_1017920281326424",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1636164681329322"
+    }
   }
 ]
