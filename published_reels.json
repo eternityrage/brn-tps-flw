@@ -1962,5 +1962,25 @@
       "status": "success",
       "url": "https://facebook.com/1143466438494448"
     }
+  },
+  {
+    "timestamp": "2026-11-05T03:47:29.523354+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_orbit_carousel_reminder_ribbon_camel_20261105_034724.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_carousel",
+    "hero": "reminder_ribbon",
+    "item": "camel",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "3381179465388533",
+      "comment_id": "3381179465388533_1435178912135797",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3381179465388533"
+    }
   }
 ]
