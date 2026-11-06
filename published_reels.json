@@ -2062,5 +2062,25 @@
       "status": "success",
       "url": "https://facebook.com/1481183654102924"
     }
+  },
+  {
+    "timestamp": "2026-11-06T03:43:11.991268+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_zoom_pulse_cyclone_orange_heart_20261106_034308.mp4",
+    "family_id": 37,
+    "family_name": "Optical Scale Pulses",
+    "mode": "zoom_pulse",
+    "hero": "cyclone",
+    "item": "orange_heart",
+    "title": "Satisfying Flow State: Can You Match The Rhythm? \ud83c\udf0a",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1331765568983703",
+      "comment_id": "1331765568983703_4663286753943285",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1331765568983703"
+    }
   }
 ]
