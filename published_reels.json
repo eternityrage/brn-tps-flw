@@ -2242,5 +2242,25 @@
       "status": "success",
       "url": "https://facebook.com/3066761993660494"
     }
+  },
+  {
+    "timestamp": "2026-11-08T02:45:43.246424+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_card_flip_vertical_woman_guard_hear_no_evil_monkey_20261108_024537.mp4",
+    "family_id": 40,
+    "family_name": "Dual-Axis Card Flips",
+    "mode": "card_flip_vertical",
+    "hero": "woman_guard",
+    "item": "hear_no_evil_monkey",
+    "title": "Hypnotic ASMR Tap: Pause At The Harmonic Beat \ud83e\uddd8",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "1119742394312312",
+      "comment_id": "1119742394312312_1515208827093998",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1119742394312312"
+    }
   }
 ]
