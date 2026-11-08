@@ -2262,5 +2262,25 @@
       "status": "success",
       "url": "https://facebook.com/1119742394312312"
     }
+  },
+  {
+    "timestamp": "2026-11-08T11:33:55.141920+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_teleport_snap_floppy_disk_curry_rice_20261108_113351.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "teleport_snap",
+    "hero": "floppy_disk",
+    "item": "curry_rice",
+    "title": "Smooth Momentum Challenge! Freeze In Perfect Flow \u2728",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1461038389428894",
+      "comment_id": "1461038389428894_1470976205170909",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1461038389428894"
+    }
   }
 ]
