@@ -2282,5 +2282,25 @@
       "status": "success",
       "url": "https://facebook.com/1461038389428894"
     }
+  },
+  {
+    "timestamp": "2026-11-08T16:23:28.641932+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_swing_horizontal_blossom_level_slider_20261108_162323.mp4",
+    "family_id": 3,
+    "family_name": "Horizontal Slider Lanes",
+    "mode": "swing_horizontal",
+    "hero": "blossom",
+    "item": "level_slider",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "id": "994601759736593",
+      "comment_id": "994601759736593_1089928467341610",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/994601759736593"
+    }
   }
 ]
