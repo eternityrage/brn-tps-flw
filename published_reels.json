@@ -2702,5 +2702,25 @@
       "status": "success",
       "url": "https://facebook.com/1126728350259421"
     }
+  },
+  {
+    "timestamp": "2026-11-12T21:36:37.775889+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_glitch_matrix_jitter_four_leaf_clover_man_in_manual_wheelchair_20261112_213634.mp4",
+    "family_id": 48,
+    "family_name": "High-Frequency Strobe Freezes",
+    "mode": "glitch_matrix_jitter",
+    "hero": "four_leaf_clover",
+    "item": "man_in_manual_wheelchair",
+    "title": "Deep Focus Flow: Hit The Zen Alignment! \ud83d\udc8e",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1168432792361349",
+      "comment_id": "1168432792361349_1879744366805132",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1168432792361349"
+    }
   }
 ]
