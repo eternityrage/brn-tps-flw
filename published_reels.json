@@ -2722,5 +2722,25 @@
       "status": "success",
       "url": "https://facebook.com/1168432792361349"
     }
+  },
+  {
+    "timestamp": "2026-11-12T23:53:26.712138+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_meteor_strike_tulip_man_golfing_20261112_235323.mp4",
+    "family_id": 19,
+    "family_name": "Deep Space Meteor Strikes",
+    "mode": "meteor_strike",
+    "hero": "tulip",
+    "item": "man_golfing",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1657388835761315",
+      "comment_id": "1657388835761315_1666827651639560",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1657388835761315"
+    }
   }
 ]
