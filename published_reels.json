@@ -2682,5 +2682,25 @@
       "status": "success",
       "url": "https://facebook.com/1817569036182245"
     }
+  },
+  {
+    "timestamp": "2026-11-12T17:45:53.532759+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_dna_double_helix_mushroom_gloves_20261112_174550.mp4",
+    "family_id": 23,
+    "family_name": "Infinity Lemniscates",
+    "mode": "dna_double_helix",
+    "hero": "mushroom",
+    "item": "gloves",
+    "title": "Satisfying Flow State: Can You Match The Rhythm? \ud83c\udf0a",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1126728350259421",
+      "comment_id": "1126728350259421_1140242045636090",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1126728350259421"
+    }
   }
 ]
