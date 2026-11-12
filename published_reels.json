@@ -2642,5 +2642,25 @@
       "status": "success",
       "url": "https://facebook.com/2176634206568301"
     }
+  },
+  {
+    "timestamp": "2026-11-12T04:23:30.965653+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_vertical_vise_banjo_white_question_mark_20261112_042326.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "vertical_vise",
+    "hero": "banjo",
+    "item": "white_question_mark",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "id": "2158746241396613",
+      "comment_id": "2158746241396613_1007239591719885",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2158746241396613"
+    }
   }
 ]
