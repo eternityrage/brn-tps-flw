@@ -2962,5 +2962,25 @@
       "status": "success",
       "url": "https://facebook.com/1083224991420283"
     }
+  },
+  {
+    "timestamp": "2026-11-15T12:18:22.955764+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_zoom_pulse_ice_cream_person_in_suit_levitating_20261115_121818.mp4",
+    "family_id": 37,
+    "family_name": "Optical Scale Pulses",
+    "mode": "zoom_pulse",
+    "hero": "ice_cream",
+    "item": "person_in_suit_levitating",
+    "title": "Smooth Momentum Challenge! Freeze In Perfect Flow \u2728",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1667903498246097",
+      "comment_id": "1667903498246097_1887678272389292",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1667903498246097"
+    }
   }
 ]
