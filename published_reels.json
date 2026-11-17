@@ -3182,5 +3182,25 @@
       "status": "success",
       "url": "https://facebook.com/1624152722727101"
     }
+  },
+  {
+    "timestamp": "2026-11-17T18:46:52.120800+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_pendulum_clockwork_old_man_heart_on_fire_20261117_184648.mp4",
+    "family_id": 1,
+    "family_name": "Harmonic Pendulums",
+    "mode": "pendulum_clockwork",
+    "hero": "old_man",
+    "item": "heart_on_fire",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "994897506474230",
+      "comment_id": "994897506474230_1495085849163458",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/994897506474230"
+    }
   }
 ]
