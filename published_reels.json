@@ -3262,5 +3262,25 @@
       "status": "success",
       "url": "https://facebook.com/1659667622516704"
     }
+  },
+  {
+    "timestamp": "2026-11-18T13:29:33.454497+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_pendulum_harmonic_arc_coral_five_oclock_20261118_132928.mp4",
+    "family_id": 1,
+    "family_name": "Harmonic Pendulums",
+    "mode": "pendulum_harmonic_arc",
+    "hero": "coral",
+    "item": "five_oclock",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1170729885903205",
+      "comment_id": "1170729885903205_1898713481152518",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1170729885903205"
+    }
   }
 ]
