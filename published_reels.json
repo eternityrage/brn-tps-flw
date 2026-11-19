@@ -3382,5 +3382,25 @@
       "status": "success",
       "url": "https://facebook.com/1426325802996764"
     }
+  },
+  {
+    "timestamp": "2026-11-19T18:43:36.106006+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_snake_serpentine_water_wave_leftwards_hand_20261119_184332.mp4",
+    "family_id": 5,
+    "family_name": "Harmonic Sine Waves",
+    "mode": "snake_serpentine",
+    "hero": "water_wave",
+    "item": "leftwards_hand",
+    "title": "Satisfying Flow State: Can You Match The Rhythm? \ud83c\udf0a",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "id": "1130795072908364",
+      "comment_id": "1130795072908364_1006274365862690",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1130795072908364"
+    }
   }
 ]
