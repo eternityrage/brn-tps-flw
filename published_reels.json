@@ -4160,5 +4160,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-27T19:12:49.277298+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_breathing_accordion_deciduous_tree_man_factory_worker_20261127_191246.mp4",
+    "family_id": 9,
+    "family_name": "Accordion Volume Pumps",
+    "mode": "breathing_accordion",
+    "hero": "deciduous_tree",
+    "item": "man_factory_worker",
+    "title": "Smooth Momentum Challenge! Freeze In Perfect Flow \u2728",
+    "pinned_comment": "\ud83d\udc8e ZEN FOCUS: Hit pause at pure 100% alignment! Share your result with us below \ud83d\udc47 #ASMRPuzzle",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
