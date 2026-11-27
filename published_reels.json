@@ -4142,5 +4142,23 @@
       "status": "success",
       "url": "https://facebook.com/2284802535634208"
     }
+  },
+  {
+    "timestamp": "2026-11-27T14:25:20.956816+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_laser_crosshairs_firefighter_calendar_20261127_142516.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "laser_crosshairs",
+    "hero": "firefighter",
+    "item": "calendar",
+    "title": "Infinite Rhythm Tap: Catch The Ripple In Time \ud83c\udf00",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
