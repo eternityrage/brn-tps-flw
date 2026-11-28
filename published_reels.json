@@ -4250,5 +4250,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-28T17:50:33.264490+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_pendulum_clockwork_neutral_face_luggage_20261128_175028.mp4",
+    "family_id": 1,
+    "family_name": "Harmonic Pendulums",
+    "mode": "pendulum_clockwork",
+    "hero": "neutral_face",
+    "item": "luggage",
+    "title": "Pure ASMR Harmony: Stop Right On The Pulse \ud83c\udfb5",
+    "pinned_comment": "\ud83c\udf0a FLOW STATE TEST:\n1. Watch the rhythmic wave and tap pause at the harmonic sync point! \ud83c\udfb5\n2. Post your screenshot below \ud83d\udc47\n3. Did you feel the flow? \ud83e\uddd8 #BrainTapsFlow",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
