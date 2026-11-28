@@ -4196,5 +4196,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-28T01:41:04.053659+00:00Z",
+    "page_id": "1227319627140685",
+    "page_name": "BrainTaps Flow",
+    "video_file": "reel_braintaps_flow_spiral_galaxy_in_blowfish_aerial_tramway_20261128_014058.mp4",
+    "family_id": 22,
+    "family_name": "Logarithmic Spiral Galaxies",
+    "mode": "spiral_galaxy_in",
+    "hero": "blowfish",
+    "item": "aerial_tramway",
+    "title": "Hypnotic ASMR Tap: Pause At The Harmonic Beat \ud83e\uddd8",
+    "pinned_comment": "\u2728 ODDLY SATISFYING CHALLENGE: Drop your screenshot below when you catch the exact ripple! \ud83d\udc47 #FlowState",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
